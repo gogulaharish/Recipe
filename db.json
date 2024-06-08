@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "name": "Chicken Biryani",
+      "description": "Chicken Biryani is Indian dish of spices and chicken",
+      "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrN_ZRoKGentHxAYeRRWwprg8XToNKbYOjxQ&s",
+      "ingredients": [
+        {
+          "name": "Chicken",
+          "amount": 1
+        },
+        {
+          "name": "onions",
+          "amount": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Pizza",
+      "description": "pizza",
+      "imagePath": "https://hips.hearstapps.com/hmg-prod/images/classic-cheese-pizza-recipe-2-64429a0cb408b.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*",
+      "ingredients": [
+        {
+          "name": "onions",
+          "amount": 1
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "ingredients": [
+    {
+      "name": "breads",
+      "amount": 3,
+      "id": 3
+    },
+    {
+      "name": "mango",
+      "amount": 1,
+      "id": 5
+    },
+    {
+      "name": "banana",
+      "amount": 3,
+      "id": 6
+    },
+    {
+      "name": "bread",
+      "amount": 1,
+      "id": 7
+    }
+  ]
+}
